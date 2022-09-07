@@ -20,9 +20,12 @@
 
   margin-bottom: 2rem;
 }
-
+.institucional__contenido {
+  margin-left: 40vw;
+}
 .institucional__descrepcion {
   margin-bottom: 2rem;
+  text-align: center;
 }
 
 .institucional__direccion {
@@ -37,6 +40,7 @@
   line-height: 1.8;
 
   margin-top: 2rem;
+  margin-left: 38vw;
 }
 
 .institucional__contacto-telefono {
